@@ -9,7 +9,7 @@ session_start()
         <!--                <h5 class="display-5">Details</h5>-->
     </header>
 
-    <form id="signupform" class="form-su" name="form" method="post" action="signup_validate.php" enctype="multipart/form-data" onsubmit="return(validate());"  >
+    <form id="signupform" class="form-su" name="form" method="post" action="profilePages/edit_validate.php" enctype="multipart/form-data" onsubmit="return(validate());"  >
         <fieldset>
             <legend>Sign up to join the community!</legend>
 
